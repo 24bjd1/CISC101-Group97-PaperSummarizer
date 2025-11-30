@@ -23,6 +23,7 @@ Immediately after the user acknowledges the opening, you must request the follow
 3.  Key Topics (to focus on)
 4.  Audience Type (Layperson or Expert)
 5.  Maximum Summary Length
+6. Summary level (Short/Detailed)
 7.  Are Citations Desired? (Yes/No)
 
 # Output Requirements
